@@ -1,0 +1,15 @@
+D:\C#\VariableTraining\bin\Debug\net6.0\VariableTraining.exe
+D:\C#\VariableTraining\bin\Debug\net6.0\VariableTraining.deps.json
+D:\C#\VariableTraining\bin\Debug\net6.0\VariableTraining.runtimeconfig.json
+D:\C#\VariableTraining\bin\Debug\net6.0\VariableTraining.dll
+D:\C#\VariableTraining\bin\Debug\net6.0\VariableTraining.pdb
+D:\C#\VariableTraining\obj\Debug\net6.0\VariableTraining.csproj.AssemblyReference.cache
+D:\C#\VariableTraining\obj\Debug\net6.0\VariableTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\VariableTraining\obj\Debug\net6.0\VariableTraining.AssemblyInfoInputs.cache
+D:\C#\VariableTraining\obj\Debug\net6.0\VariableTraining.AssemblyInfo.cs
+D:\C#\VariableTraining\obj\Debug\net6.0\VariableTraining.csproj.CoreCompileInputs.cache
+D:\C#\VariableTraining\obj\Debug\net6.0\VariableTraining.dll
+D:\C#\VariableTraining\obj\Debug\net6.0\refint\VariableTraining.dll
+D:\C#\VariableTraining\obj\Debug\net6.0\VariableTraining.pdb
+D:\C#\VariableTraining\obj\Debug\net6.0\VariableTraining.genruntimeconfig.cache
+D:\C#\VariableTraining\obj\Debug\net6.0\ref\VariableTraining.dll
