@@ -1,0 +1,15 @@
+D:\C#\Odev2\Odev2-Soru1\obj\Debug\net6.0\Odev2-Soru1.csproj.AssemblyReference.cache
+D:\C#\Odev2\Odev2-Soru1\obj\Debug\net6.0\Odev2-Soru1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Odev2\Odev2-Soru1\obj\Debug\net6.0\Odev2-Soru1.AssemblyInfoInputs.cache
+D:\C#\Odev2\Odev2-Soru1\obj\Debug\net6.0\Odev2-Soru1.AssemblyInfo.cs
+D:\C#\Odev2\Odev2-Soru1\obj\Debug\net6.0\Odev2-Soru1.csproj.CoreCompileInputs.cache
+D:\C#\Odev2\Odev2-Soru1\bin\Debug\net6.0\Odev2-Soru1.exe
+D:\C#\Odev2\Odev2-Soru1\bin\Debug\net6.0\Odev2-Soru1.deps.json
+D:\C#\Odev2\Odev2-Soru1\bin\Debug\net6.0\Odev2-Soru1.runtimeconfig.json
+D:\C#\Odev2\Odev2-Soru1\bin\Debug\net6.0\Odev2-Soru1.dll
+D:\C#\Odev2\Odev2-Soru1\bin\Debug\net6.0\Odev2-Soru1.pdb
+D:\C#\Odev2\Odev2-Soru1\obj\Debug\net6.0\Odev2-Soru1.dll
+D:\C#\Odev2\Odev2-Soru1\obj\Debug\net6.0\refint\Odev2-Soru1.dll
+D:\C#\Odev2\Odev2-Soru1\obj\Debug\net6.0\Odev2-Soru1.pdb
+D:\C#\Odev2\Odev2-Soru1\obj\Debug\net6.0\Odev2-Soru1.genruntimeconfig.cache
+D:\C#\Odev2\Odev2-Soru1\obj\Debug\net6.0\ref\Odev2-Soru1.dll
