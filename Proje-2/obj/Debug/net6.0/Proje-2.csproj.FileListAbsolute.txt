@@ -1,0 +1,15 @@
+D:\C#\Proje-2\bin\Debug\net6.0\Proje-2.exe
+D:\C#\Proje-2\bin\Debug\net6.0\Proje-2.deps.json
+D:\C#\Proje-2\bin\Debug\net6.0\Proje-2.runtimeconfig.json
+D:\C#\Proje-2\bin\Debug\net6.0\Proje-2.dll
+D:\C#\Proje-2\bin\Debug\net6.0\Proje-2.pdb
+D:\C#\Proje-2\obj\Debug\net6.0\Proje-2.csproj.AssemblyReference.cache
+D:\C#\Proje-2\obj\Debug\net6.0\Proje-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Proje-2\obj\Debug\net6.0\Proje-2.AssemblyInfoInputs.cache
+D:\C#\Proje-2\obj\Debug\net6.0\Proje-2.AssemblyInfo.cs
+D:\C#\Proje-2\obj\Debug\net6.0\Proje-2.csproj.CoreCompileInputs.cache
+D:\C#\Proje-2\obj\Debug\net6.0\Proje-2.dll
+D:\C#\Proje-2\obj\Debug\net6.0\refint\Proje-2.dll
+D:\C#\Proje-2\obj\Debug\net6.0\Proje-2.pdb
+D:\C#\Proje-2\obj\Debug\net6.0\Proje-2.genruntimeconfig.cache
+D:\C#\Proje-2\obj\Debug\net6.0\ref\Proje-2.dll
